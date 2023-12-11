@@ -19,7 +19,8 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m a Year 3 Computer Science student and currently undergoing internship at Spritzer Bhd. as IT Industrial Trainee.
+- 🔭 I’m a final Computer Science student.
+- 🏢 I had undergone internship at Spritzer Bhd. as IT Industrial Trainee.
 - 🌱 I'm currently in the process of learning and exploring many thing.
 - ⚡ Fun fact about me is I like to sleep.
 
