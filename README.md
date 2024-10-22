@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m a fresh graduate from Universiti Sains Malaysia with a Bachelor Degree of Computer Science majoring in Software Engineering.
+- 🔭 I’m a fresh graduate from Universiti Sains Malaysia with a Bachelor Degree of Software Engineering.
 - 🏢 I had undergone internship at Spritzer Bhd. as IT Industrial Trainee.
 - 🌱 I'm currently in the process of learning and exploring many thing.
 - ⚡ Fun fact about me is I am a coffee lover.
