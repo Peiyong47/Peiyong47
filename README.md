@@ -22,5 +22,5 @@
 - 🔭 I’m a fresh graduate from Universiti Sains Malaysia with a Bachelor Degree of Software Engineering.
 - 🏢 I had undergone internship at Spritzer Bhd. as IT Industrial Trainee.
 - 🌱 I'm currently in the process of learning and exploring many thing.
-- ⚡ Fun fact about me is I am a coffee lover.
+- ☕ Fun fact about me is I am a coffee lover.
 
